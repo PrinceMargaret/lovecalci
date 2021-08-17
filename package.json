@@ -4,7 +4,7 @@
   "description": "",
   "main": "love.js",
   "scripts": {
-    "deploy": "gh-pages -d lovecalci"
+    "test": "gh-pages -d lovecalci"
   },
   "repository": {
     "type": "git",
