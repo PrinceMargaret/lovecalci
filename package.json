@@ -1,0 +1,23 @@
+{
+  "name": "lovecalci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "love.js",
+  "scripts": {
+    "deploy": "gh-pages -d lovecalci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceMargaret/lovecalci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrinceMargaret/lovecalci/issues"
+  },
+  "homepage": "https://github.com/PrinceMargaret/lovecalci",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
